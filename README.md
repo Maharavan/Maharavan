@@ -7,20 +7,15 @@
 
 ## 🧩 About Me
 
-I'm a DevOps Engineer at Robert Bosch with 2.5+ years of experience in automating infrastructure, streamlining CI/CD workflows, and enabling efficient development environments. I love combining automation with intelligent tooling to deliver reliable and scalable solutions.
+I'm a DevOps Engineer with 2.5+ years of experience at Robert Bosch, where I focus on automating infrastructure, optimizing CI/CD pipelines, and enabling reliable, scalable development environments.
 
-🔧 What I do:
+My core expertise lies in designing and implementing DevOps solutions that are resilient, secure, and performance-driven. I thrive in cloud-native ecosystems, using tools like **Docker**, **Kubernetes**, **Jenkins** and **GitHub Actions** to streamline software delivery and operations.
 
-- Build & manage CI/CD pipelines using **Jenkins**, **GitHub Actions**, and **Ansible**
-- Containerize and orchestrate apps using **Docker** and **Kubernetes**
-- Drive quality with tools like **SonarQube**, **PC-Lint**, and **FOSSID**
-- Monitor systems with **Grafana**, **Nagios**, and the **ELK Stack**
-- Write automation in **Python**, **Shell**, and **Batch scripting**
+🌐 I'm equally excited about web technologies. I develop web applications using **Django**, **FastAPI**, and **Streamlit**, often blending them with modern frontend tools like **HTML/CSS** and **JavaScript**. I'm actively exploring how **AI/LLM integrations** can enhance developer experience and application intelligence.
 
-🌐 I'm also passionate about:
+Driven by continuous improvement, I enjoy solving complex engineering problems, automating repetitive workflows, and staying on the edge of DevOps innovation. Let’s connect and build what’s next in tech!
 
-- Developing **web applications** using **Django**, **FastAPI**, and **Streamlit**
-- Exploring AI integration in apps to enhance developer experience
+Let me know if you'd like to tailor this even further—e.g., highlight certifications, career goals, or emphasize your interest in specific domains like cloud platforms (AWS, Azure, etc.).
 
 ---
 
@@ -44,8 +39,8 @@ I'm a DevOps Engineer at Robert Bosch with 2.5+ years of experience in automatin
 
 ## 📫 How to Reach Me
 
-- 📧 Email: maharavan.dev@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/maharavan](https://linkedin.com/in/maharavan)  
+- 📧 Email: maharavan10@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/maharavan](https://www.linkedin.com/in/maharavan-s/)  
 - 💻 GitHub: [@Maharavan](https://github.com/Maharavan)
 
 ---
