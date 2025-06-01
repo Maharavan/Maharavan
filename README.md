@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Maharavan
 
 🎯 DevOps Engineer | 🚀 Cloud & Automation Enthusiast | 💻 Web App Curious  
-📌 Open to DevOps, Cloud, or Full-Stack roles | Let's connect!
+📌 DevOps, Cloud, Full-Stack or App related | Let's connect!
 
 ---
 
