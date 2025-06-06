@@ -15,8 +15,6 @@ My core expertise lies in designing and implementing DevOps solutions that are r
 
 Driven by continuous improvement, I enjoy solving complex engineering problems, automating repetitive workflows, and staying on the edge of DevOps innovation. Let’s connect and build what’s next in tech!
 
-Let me know if you'd like to tailor this even further—e.g., highlight certifications, career goals, or emphasize your interest in specific domains like cloud platforms (AWS, Azure, etc.).
-
 ---
 
 ## 🧠 Tech Stack
