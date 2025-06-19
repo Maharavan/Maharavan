@@ -45,7 +45,7 @@ Driven by continuous improvement, I enjoy solving complex engineering problems, 
 
 ## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maharavan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maharavan&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maharavan&layout=compact&theme=tokyonight)
 
 ---
