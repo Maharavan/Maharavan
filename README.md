@@ -44,7 +44,8 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maharavan&theme=highcontrast&hide_border=true&show_icons=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharavan&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharavan&theme=highcontrast&hide_border=true&layout=compact" alt="Top Languages"/><a href="https://leetcode.com/maharavan10/"><img src="https://leetcard.jacoblin.cool/maharavan10?theme=dark" width="400" /></a>
+
 </p>
 
 ---
