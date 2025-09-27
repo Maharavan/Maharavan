@@ -15,7 +15,7 @@
 </div>
 
 <p align="justify">
-  I’m a DevOps Engineer at Robert Bosch with 3+ years of experience in <strong>infrastructure automation, CI/CD pipelines, and cloud-native solutions</strong>. I thrive at the intersection of <strong>Cloud, AI, and Full-Stack development</strong>, delivering <strong>intelligent, scalable, and efficient systems</strong>.
+  I’m a DevOps Engineer at Robert Bosch with 3+ years of experience in <strong>infrastructure automation, CI/CD pipelines, and cloud-native solutions</strong>. I thrive at the intersection of <strong>Cloud, AI, and learning Full-Stack development</strong>, delivering <strong>intelligent, scalable, and efficient systems</strong>.
 </p>
 
 <p align="center">
