@@ -104,8 +104,6 @@ I thrive at the intersection of <strong>Cloud, AI, and Full-Stack development</s
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1E1E1E?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/-Groq-000000?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
