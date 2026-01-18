@@ -119,7 +119,7 @@ I thrive at the intersection of <strong>Cloud, AI, and Full-Stack development</s
 
 <p align="center">
   <a href="https://leetcode.com/maharavan10/">
-    <img src="https://leetcard.jacoblin.cool/maharavan10?theme=dark" width="420" />
+    <img src="https://leetcard.jacoblin.cool/mahar_10?theme=dark" width="420" />
   </a>
 </p>
 
