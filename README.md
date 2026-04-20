@@ -45,11 +45,14 @@ approach  : >
 - 📦 I document and open-source so others can skip the pain I went through
 - 🔁 I bring **DevOps thinking** to everything — reproducible, observable, automated
 
+
 **Currently down a rabbit hole on:**
-- LLM agents with real memory + tool use for ops automation
-- eBPF for zero-instrumentation observability
-- Offensive security tooling — understanding attacks to build better defenses
-- WebAssembly on the edge
+
+- 🤖 Autonomous LLM agents for self-healing DevOps, predictive incident response, and generative CI/CD pipelines
+- 🛡️ AI-driven cybersecurity: adversarial ML, threat intelligence automation, and cyber deception research
+- 🧪 Next-gen research: self-evolving AI agents, generative security policies, AI for cyber deception, and explainable AI in DevOps
+- 🐝 eBPF for programmable observability, runtime security, and cloud-native networking
+- 🔗 Multi-agent systems for collaborative SecOps, platform engineering, and zero-trust automation
 
 <br clear="right"/>
 
@@ -169,78 +172,6 @@ approach  : >
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-977.06%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 140 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-🌆 Daytime                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-🌃 Evening                222 commits         █████████████░░░░░░░░░░░░   53.11 % 
-🌙 Night                  76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   78 commits          █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Tuesday                  43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Thursday                 38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Saturday                 89 commits          █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Sunday                   88 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-YAML                     20 mins             ████████████████████░░░░░   79.46 % 
-Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-
-🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Maharavan                25 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   8 repos             █████████████░░░░░░░░░░░░   53.33 % 
-Go                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-
- Last Updated on 20/04/2026 11:38:30 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
