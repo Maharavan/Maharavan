@@ -172,6 +172,86 @@ approach  : >
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2015%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-977.77%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 143 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+🌆 Daytime                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+🌃 Evening                216 commits         █████████████░░░░░░░░░░░░   52.81 % 
+🌙 Night                  74 commits          █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Tuesday                  43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Wednesday                54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Thursday                 38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Friday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Saturday                 86 commits          █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Sunday                   84 commits          █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   1 hr 44 mins        ████████████░░░░░░░░░░░░░   47.94 % 
+Markdown                 53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Git                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 11 mins       ██████████████████████░░░   87.42 % 
+Unknown Editor           27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+
+🐱‍💻 Projects: 
+ci-root-cause-analyzer   2 hrs 10 mins       ███████████████░░░░░░░░░░   59.59 % 
+new-repo                 45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+agent                    32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Maharavan                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+
+💻 Operating System: 
+Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             █████████████░░░░░░░░░░░░   53.33 % 
+Go                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+
+ Last Updated on 30/04/2026 01:48:01 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
