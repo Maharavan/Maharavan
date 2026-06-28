@@ -172,8 +172,6 @@ approach  : >
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2051%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-990.23%20thousand%20lines%20of%20code-blue?style=flat)
@@ -182,11 +180,11 @@ approach  : >
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 187 Contributions in the Year 2026
+> 🏆 188 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -217,16 +215,25 @@ Sunday                   84 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 18 mins       ███████████████████████░░   90.73 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 32 mins       ████████████████████████░   95.65 % 
+Claude Code              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ratelimit-py             4 hrs 19 mins       ███████████████████████░░   91.04 % 
+crewai                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+ratelimitx               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+PerfTrace                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -242,7 +249,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2026 01:58:13 UTC
+ Last Updated on 28/06/2026 02:08:55 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
