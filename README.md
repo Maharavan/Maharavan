@@ -172,7 +172,7 @@ approach  : >
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -217,16 +217,18 @@ Sunday                   84 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   27 mins             █████████████████████████   100.00 % 
+Python                   2 hrs 40 mins       █████████████████████████   99.97 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 19 mins       ██████████████████████░░░   86.84 % 
+Claude Code              21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 
 🐱‍💻 Projects: 
-ratelimit-py             27 mins             █████████████████████████   100.00 % 
+ratelimit-py             2 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -242,7 +244,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2026 01:44:43 UTC
+ Last Updated on 10/07/2026 01:29:17 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
