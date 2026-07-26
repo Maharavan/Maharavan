@@ -172,6 +172,8 @@ approach  : >
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2021%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-996.32%20thousand%20lines%20of%20code-blue?style=flat)
@@ -188,6 +190,45 @@ approach  : >
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+🌆 Daytime                82 commits          █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+🌃 Evening                217 commits         █████████████░░░░░░░░░░░░   51.18 % 
+🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Tuesday                  46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Thursday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Friday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Saturday                 92 commits          █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+Sunday                   85 commits          █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   19 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  19 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+ratelimit-py             19 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  19 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -201,7 +242,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 01:24:48 UTC
+ Last Updated on 26/07/2026 01:28:10 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
