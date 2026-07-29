@@ -172,10 +172,6 @@ approach  : >
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2022%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2052%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-996.32%20thousand%20lines%20of%20code-blue?style=flat)
@@ -250,7 +246,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 01:20:02 UTC
+ Last Updated on 29/07/2026 01:21:30 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
