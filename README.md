@@ -172,19 +172,15 @@ approach  : >
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2022%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2052%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-999.98%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.00%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 206 Contributions in the Year 2026
+> 🏆 207 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -192,51 +188,6 @@ approach  : >
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-🌆 Daytime                92 commits          █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-🌃 Evening                217 commits         ████████████░░░░░░░░░░░░░   50.00 % 
-🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Tuesday                  46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Thursday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Saturday                 92 commits          █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Sunday                   85 commits          █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -250,7 +201,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:18:48 UTC
+ Last Updated on 07/08/2026 01:59:55 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
