@@ -172,9 +172,9 @@ approach  : >
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -188,28 +188,28 @@ approach  : >
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-🌆 Daytime                92 commits          █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-🌃 Evening                217 commits         ████████████░░░░░░░░░░░░░   49.89 % 
-🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+🌞 Morning                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+🌆 Daytime                92 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+🌃 Evening                218 commits         ████████████░░░░░░░░░░░░░   49.89 % 
+🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Tuesday                  46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Thursday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Saturday                 92 commits          █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Sunday                   85 commits          █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Monday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Tuesday                  46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Thursday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Saturday                 93 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Sunday                   85 commits          █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
 ```
 
 
@@ -219,43 +219,46 @@ Sunday                   85 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 27 mins        █████████████████████████   98.54 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Python                   1 hr 31 mins        ████████████████████░░░░░   78.72 % 
+YAML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ratelimit-py             1 hr 20 mins        ███████████████████████░░   90.34 % 
-examples                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-inmemory                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-tests                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-models                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+ratelimit-py             1 hr 47 mins        ███████████████████████░░   92.61 % 
+examples                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+inmemory                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+tests                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+models                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (64.3%)
+⏱ AI Coding Time: 1 hr 11 mins (61.44%)
 
-✍️ 764 lines written by AI, 111 lines written by hand (87.31% AI-written)
+✍️ 764 lines written by AI, 158 lines written by hand (82.86% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 51,578 Input Tokens, 2,437 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.19 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 18 AI Prompts
+🧠 3 AI Sessions, 21 AI Prompts
 
 Github-Copilot           764 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.31% of written lines came from AI
-📚 Verbose Prompter — average 2,508 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 20.99% of changed lines were hand-edited
+🤖 AI-Driven — 82.86% of written lines came from AI
+📚 Verbose Prompter — average 2,154 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 26.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -271,7 +274,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 00:45:19 UTC
+ Last Updated on 10/08/2026 00:47:29 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
