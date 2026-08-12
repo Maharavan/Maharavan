@@ -172,9 +172,9 @@ approach  : >
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -184,7 +184,7 @@ approach  : >
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 215 Contributions in the Year 2026
+> 🏆 218 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -195,21 +195,21 @@ approach  : >
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-🌆 Daytime                92 commits          █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-🌃 Evening                227 commits         █████████████░░░░░░░░░░░░   50.44 % 
-🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+🌆 Daytime                93 commits          █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+🌃 Evening                227 commits         █████████████░░░░░░░░░░░░   50.33 % 
+🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   87 commits          █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Tuesday                  46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Thursday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Saturday                 93 commits          █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Sunday                   85 commits          █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Monday                   87 commits          █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Tuesday                  47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Thursday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Saturday                 93 commits          █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Sunday                   85 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
 ```
 
 
@@ -219,62 +219,62 @@ Sunday                   85 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 46 mins        ███████████████░░░░░░░░░░   59.24 % 
-YAML                     57 mins             ████████░░░░░░░░░░░░░░░░░   31.88 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Python                   2 hrs 18 mins       ████████████████░░░░░░░░░   62.94 % 
+YAML                     57 mins             ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ratelimit-py             2 hrs 44 mins       ███████████████████████░░   91.86 % 
-ratelimit_py             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-examples                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-inmemory                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-tests                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+ratelimit-py             2 hrs 44 mins       ███████████████████░░░░░░   75.04 % 
+ratelimit_py             45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+examples                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+inmemory                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+tests                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 34 mins (52.42%)
+⏱ AI Coding Time: 1 hr 34 mins (42.88%)
 
-✍️ 803 lines written by AI, 184 lines written by hand (81.36% AI-written)
+✍️ 803 lines written by AI, 254 lines written by hand (75.97% AI-written)
 
 🔤 145,676 Input Tokens, 2,896 Output Tokens
 
 💵 $0.48 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 33 AI Prompts
+🧠 7 AI Sessions, 34 AI Prompts
 
 Github-Copilot           803 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.36% of written lines came from AI
-📄 Detailed Prompter — average 1,481 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 28.18% of changed lines were hand-edited
+🤖 AI-Driven — 75.97% of written lines came from AI
+📄 Detailed Prompter — average 1,478 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 34.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ███████████████░░░░░░░░░░   60.00 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   13 repos            ███████████████░░░░░░░░░░   61.90 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 11/08/2026 00:47:06 UTC
+ Last Updated on 12/08/2026 00:55:13 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
