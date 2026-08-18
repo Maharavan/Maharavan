@@ -172,7 +172,7 @@ approach  : >
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2026%20mins-blue?style=flat)
 
@@ -219,46 +219,41 @@ Sunday                   88 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 25 mins        ████████████░░░░░░░░░░░░░   49.13 % 
-YAML                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-TOML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Python                   1 hr 9 mins         █████████████████░░░░░░░░   67.41 % 
+Bash                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+TOML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ratelimit_py             1 hr 38 mins        ██████████████░░░░░░░░░░░   56.66 % 
-ratelimit-py             57 mins             ████████░░░░░░░░░░░░░░░░░   33.21 % 
-dont-know                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-examples                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Code_base                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ratelimit_py             1 hr 25 mins        █████████████████████░░░░   83.56 % 
+dont-know                16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
 
 💻 Operating System: 
-Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (16.83%)
+⏱ AI Coding Time: 0 secs (0.13%)
 
-✍️ 39 lines written by AI, 138 lines written by hand (22.03% AI-written)
+✍️ 0 lines written by AI, 112 lines written by hand (0.0% AI-written)
 
-🔤 94,098 Input Tokens, 459 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.29 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 14 AI Prompts
-
-Github-Copilot           39 lines            █████████████████████████   100.00 % 
+🧠 2 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.03% of written lines came from AI
-📝 Concise Prompter — average 366 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 84.77% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 738 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -274,7 +269,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 00:31:40 UTC
+ Last Updated on 18/08/2026 00:31:27 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
