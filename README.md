@@ -219,20 +219,20 @@ Sunday                   88 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   36 mins             ███████████████░░░░░░░░░░   59.07 % 
-Bash                     16 mins             ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-TOML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Python                   35 mins             ███████████████░░░░░░░░░░   58.39 % 
+Bash                     16 mins             ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+TOML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ratelimit_py             44 mins             ██████████████████░░░░░░░   72.58 % 
-dont-know                16 mins             ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+ratelimit_py             43 mins             ██████████████████░░░░░░░   71.93 % 
+dont-know                16 mins             ███████░░░░░░░░░░░░░░░░░░   28.07 % 
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -254,7 +254,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 00:31:33 UTC
+ Last Updated on 20/08/2026 00:31:32 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
