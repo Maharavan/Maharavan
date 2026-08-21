@@ -184,11 +184,11 @@ approach  : >
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 231 Contributions in the Year 2026
+> 🏆 232 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -219,20 +219,19 @@ Sunday                   88 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   35 mins             ███████████████░░░░░░░░░░   58.39 % 
-Bash                     16 mins             ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-TOML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Python                   20 mins             ███████████████░░░░░░░░░░   60.81 % 
+Bash                     8 mins              ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+TOML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ratelimit_py             43 mins             ██████████████████░░░░░░░   71.93 % 
-dont-know                16 mins             ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+ratelimit_py             24 mins             ██████████████████░░░░░░░   73.75 % 
+dont-know                8 mins              ███████░░░░░░░░░░░░░░░░░░   26.25 % 
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -254,7 +253,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 00:31:32 UTC
+ Last Updated on 21/08/2026 00:34:18 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
