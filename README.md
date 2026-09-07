@@ -184,7 +184,7 @@ approach  : >
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 231 Contributions in the Year 2026
+> 🏆 232 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -195,21 +195,21 @@ approach  : >
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-🌆 Daytime                94 commits          █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-🌃 Evening                227 commits         █████████████░░░░░░░░░░░░   50.22 % 
-🌙 Night                  77 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+🌞 Morning                54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+🌆 Daytime                94 commits          █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+🌃 Evening                228 commits         █████████████░░░░░░░░░░░░   50.33 % 
+🌙 Night                  77 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   83 commits          █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Tuesday                  47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Wednesday                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Thursday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Saturday                 93 commits          █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Sunday                   87 commits          █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Monday                   83 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Tuesday                  47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Wednesday                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Thursday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Saturday                 93 commits          █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Sunday                   88 commits          █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 ```
 
 
@@ -219,22 +219,43 @@ Sunday                   87 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 24 mins        ██████████████████████░░░   89.01 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dont-know                1 hr 34 mins        █████████████████████████   99.87 % 
+api                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 38 mins (40.76%)
+
+✍️ 0 lines written by AI, 80 lines written by hand (0.0% AI-written)
+
+🔤 87,174 Input Tokens, 2,262 Output Tokens
+
+💵 $0.30 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 50 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -250,7 +271,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 01:36:13 UTC
+ Last Updated on 07/09/2026 01:34:47 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
