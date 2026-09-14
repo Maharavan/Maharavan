@@ -219,43 +219,22 @@ Sunday                   96 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 25 mins        ██████████████████████░░░   89.08 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dont-know                1 hr 35 mins        █████████████████████████   99.87 % 
-api                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+dont-know                0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (40.5%)
-
-✍️ 0 lines written by AI, 80 lines written by hand (0.0% AI-written)
-
-🔤 87,174 Input Tokens, 2,262 Output Tokens
-
-💵 $0.30 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 50 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -271,7 +250,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 01:43:57 UTC
+ Last Updated on 14/09/2026 02:01:45 UTC
 <!--END_SECTION:waka-->
 
 > _Auto-updated daily via WakaTime + GitHub Actions. Setup: install the [WakaTime VS Code plugin](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → add `WAKATIME_API_KEY` as a repo secret._
